@@ -43,11 +43,17 @@ Or if you can see it,  you should  be happy about this. Okey, here we go!
 
 [JavaVirtualMachine](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/JavaVirtualMachine)
 
-## RelativeKnowledge 相关知识相关
+## RelativeKnowledge 相关知识
 
 ### This part is about relativeKnowledge knowledge.Tyvm!
 
 [RelativeKnowledge](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/RelativeKnowledge)
+
+## Scala Scala相关
+
+### This part is about scala knowledge.Tyvm!
+
+[Scala](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/Scala)
 
 ## Spring Spring相关
 
