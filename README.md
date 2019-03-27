@@ -61,6 +61,12 @@ Or if you can see it,  you should  be happy about this. Okey, here we go!
 
 [Spring](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/Spring)
 
+## Teacher_LiYongle 拓展常识相关
+
+### This part is about extend knowledge.Tyvm!
+
+[Teacher_LiYongle ](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/Teacher_LiYongle )
+
 ## Contact me 联系主人
 
 ### WeChat:kjcxmx(注明来意~)
