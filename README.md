@@ -55,6 +55,12 @@ Or if you can see it,  you should  be happy about this. Okey, here we go!
 
 [Scala](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/Scala)
 
+## Spark Spark 相关
+
+### This part is about spark knowledge.Tyvm!
+
+[Spark](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/Spark)
+
 ## Spring Spring相关
 
 ### This part is about spring knowledge.Tyvm!
