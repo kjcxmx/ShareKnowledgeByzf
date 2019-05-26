@@ -7,7 +7,13 @@ Or if you can see it,  you should  be happy about this. Okey, here we go!
 
 写一些琐碎的知识点，记录一下成长历程，与更多年轻人交流！加油！冲鸭~
 
-## DateBase 数据库相关
+## BigData 大数据相关
+
+### This part is about bigdata knowledge.Tyvm!
+
+[BigData](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/BigData)
+
+### DateBase 数据库相关
 
 ### This part is about databases knowledge.Tyvm!
 
@@ -24,6 +30,18 @@ Or if you can see it,  you should  be happy about this. Okey, here we go!
 ### This part is about docker knowledge.Tyvm!
 
 [Docker](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/Docker)
+
+## InformationSecurity 信息安全
+
+### This part is about Information Security.Tyvm!
+
+[InformationSecurity](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/InformationSecurity)
+
+## InternetTechnology 网络技术
+
+### This part is about Internet technology.Tyvm!
+
+[InternetTechnology](https://github.com/kjcxmx/ShareKnowledgeByzf/tree/master/InternetTechnology)
 
 ## InterviewExperience 面试经验相关
 
